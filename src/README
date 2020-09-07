@@ -1,0 +1,10 @@
+Adam vanBerkum
+vanberk2
+CS 440
+HW 11
+
+This program implements decision tree learning on the restaurant data set.
+
+To run the program use an IDE of your choice and run main.
+
+Edit values of attributes in StartDTL -> initializeAttributes
